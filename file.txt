@@ -1,3 +1,5 @@
 this is a test file
 this is a code file
 code file
+this is fourth line
+this is core file
